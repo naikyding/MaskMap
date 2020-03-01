@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e203fa4c710572361fb7d8307aca4763.js"
+  "precache-manifest.31acef087d349bea29f0c14aa161e4b1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "markmap"});
